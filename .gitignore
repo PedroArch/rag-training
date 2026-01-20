@@ -1,5 +1,4 @@
 .env
 .ipynb_checkpoints/
 livro_index/
-livro_index/chroma.sqlite3
-livro_index/chroma.sqlite3
+
